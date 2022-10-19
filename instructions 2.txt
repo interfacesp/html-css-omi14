@@ -1,0 +1,23 @@
+1.
+    * Reprenez le fichier "plats.html". 
+    Afficher les noms de plats en titre niveau 1
+
+    * Afficher quelques ingredients sous forme de liste
+
+2. 
+
+    * Reprenez le fichier "sports.html". 
+    Afficher les sports sous forme de liste non ordonnées
+
+3. 
+
+    * Reprenez le fichier "stars.html". 
+    Afficher les sports sous forme de liste non ordonnées
+
+
+4. 
+
+    * Reprenez le fichier "films.html". 
+    Afficher les sports sous forme de liste non ordonnées
+
+   
